@@ -1,0 +1,4 @@
+tensorflow-gpu==1.10
+keras==2.1.5
+matplotlib
+h5py
